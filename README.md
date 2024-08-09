@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritik Petare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F698902435939082507%2F&psig=AOvVaw1wAinCGl8QfMBGw4oSOeb7&ust=1723295224409000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCcpZ7954cDFQAAAAAdAAAAABA](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikpetare&label=Profile%20views&color=0e75b6&style=flat" alt="ritikpetare" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
